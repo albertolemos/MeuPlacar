@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Meu Placar</string>
+    <string name="btnJogadorUm">Jogador 1</string>
+    <string name="btnJogadorDois">Jogador 2</string>
+    <string name="tvContadorUm"> 0 </string>
+    <string name="tvVersus"> X </string>
+    <string name="tvContadorDois"> 0 </string>
+    <string name="btnEncerrarPartida">ENCERRAR JOGO</string>
+    <string name="btnZerarPlacar">ZERAR PLACAR</string>
+    <string name="btnVoltarActivityMain">VOLTAR</string>
+    <string name="tvJogadorUmVencedor">Jogador 1 venceu a partida!</string>
+    <string name="tvJogadorDoisVencedor">Jogador 2 venceu a partida!</string>
+    <string name="tvEmpate">O jogo terminou empatado! Que pena!</string>
+</resources>
